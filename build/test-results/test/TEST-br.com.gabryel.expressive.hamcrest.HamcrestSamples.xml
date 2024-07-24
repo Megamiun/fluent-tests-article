@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.gabryel.expressive.hamcrest.HamcrestSamples" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-27T16:49:06" hostname="steamdeck" time="0.087">
+  <properties/>
+  <testcase name="Hamcrest - given a regular participant, description should have name and updated value rounded to two decimal places()" classname="br.com.gabryel.expressive.hamcrest.HamcrestSamples" time="0.087"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
